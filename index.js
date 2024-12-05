@@ -8,7 +8,7 @@ const GiveawayManager = require("./handler/GiveawayManager");
 this.config = require(`./config.json`)
 
 client.emoji = {
-'tick': '<:tick:1277612193965412364>',
+'tick': '<:tick:1277612193965412364>', 
 'cross':'<:cross:1277611886820593780>',
   'dot': '<a:flame_dot:1277614248914325585>',
   
