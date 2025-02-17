@@ -1,2 +1,1 @@
-# Flame
-# Made By Ankush 
+# Randi bot 
