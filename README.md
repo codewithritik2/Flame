@@ -1,2 +1,2 @@
-# Randi bot 
-# Skid h pura code 
+# SUPPORT SERVER: https://discord.gg/JCKme7WM6q
+
